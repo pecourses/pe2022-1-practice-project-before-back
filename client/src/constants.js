@@ -6,6 +6,7 @@ export default {
     TEL_NUMBER: '(877)355-3585',
   },
   CREATOR: 'creator',
+  CUSTOMER: 'customer',
   CONTEST_STATUS_ACTIVE: 'active',
   CONTEST_STATUS_FINISHED: 'finished',
   CONTEST_STATUS_PENDING: 'pending',
